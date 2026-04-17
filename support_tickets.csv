@@ -1,0 +1,201 @@
+ticket_id,order_id,comment_text,sentiment
+1,1730,"I want to return the bench, it's too big for my room.",Neutral
+2,1349,The weight plates are missing from the package.,Positive
+3,1604,Is this bench compatible with the PRO rack?,Negative
+4,1648,"Amazing service, very fast response!",Positive
+5,1335,Where is my order? It's been 10 days.,Negative
+6,1250,"Amazing service, very fast response!",Positive
+7,1778,"Amazing service, very fast response!",Positive
+8,1928,"I want to return the bench, it's too big for my room.",Positive
+9,2187,My dumbbells arrived but they are scratched.,Negative
+10,2033,"Delivery was late, but the product quality is amazing.",Negative
+11,1280,Instruction manual is missing pages 4 and 5.,Positive
+12,1909,The weight plates are missing from the package.,Positive
+13,1311,My dumbbells arrived but they are scratched.,Negative
+14,1455,"Amazing service, very fast response!",Neutral
+15,2077,"Amazing service, very fast response!",Neutral
+16,1757,"Amazing service, very fast response!",Neutral
+17,1944,Instruction manual is missing pages 4 and 5.,Positive
+18,2040,Where is my order? It's been 10 days.,Neutral
+19,1538,The weight plates are missing from the package.,Positive
+20,1542,"Amazing service, very fast response!",Negative
+21,1235,Is this bench compatible with the PRO rack?,Negative
+22,1226,Instruction manual is missing pages 4 and 5.,Neutral
+23,2059,My dumbbells arrived but they are scratched.,Negative
+24,2044,The assembly instructions for the rack are very confusing.,Neutral
+25,1788,My dumbbells arrived but they are scratched.,Neutral
+26,1688,"Delivery was late, but the product quality is amazing.",Negative
+27,1621,My dumbbells arrived but they are scratched.,Negative
+28,1805,Can't track my shipping number on the website.,Negative
+29,1792,"Delivery was late, but the product quality is amazing.",Negative
+30,1168,Is this bench compatible with the PRO rack?,Negative
+31,2024,Instruction manual is missing pages 4 and 5.,Positive
+32,1954,Is this bench compatible with the PRO rack?,Positive
+33,1505,Is this bench compatible with the PRO rack?,Negative
+34,1001,Instruction manual is missing pages 4 and 5.,Neutral
+35,1233,My dumbbells arrived but they are scratched.,Neutral
+36,1453,Instruction manual is missing pages 4 and 5.,Positive
+37,1376,The assembly instructions for the rack are very confusing.,Neutral
+38,1505,"I want to return the bench, it's too big for my room.",Neutral
+39,1709,Instruction manual is missing pages 4 and 5.,Positive
+40,1617,"Delivery was late, but the product quality is amazing.",Positive
+41,1821,"I want to return the bench, it's too big for my room.",Neutral
+42,1184,Where is my order? It's been 10 days.,Positive
+43,1636,Can't track my shipping number on the website.,Negative
+44,1074,Is this bench compatible with the PRO rack?,Negative
+45,1006,"Delivery was late, but the product quality is amazing.",Negative
+46,2031,"Amazing service, very fast response!",Positive
+47,2054,Can't track my shipping number on the website.,Negative
+48,1687,Instruction manual is missing pages 4 and 5.,Negative
+49,1133,Is this bench compatible with the PRO rack?,Positive
+50,1832,The assembly instructions for the rack are very confusing.,Neutral
+51,1351,Where is my order? It's been 10 days.,Negative
+52,1021,"Delivery was late, but the product quality is amazing.",Positive
+53,1671,Is this bench compatible with the PRO rack?,Negative
+54,1038,The assembly instructions for the rack are very confusing.,Negative
+55,1942,"Delivery was late, but the product quality is amazing.",Neutral
+56,1575,"Amazing service, very fast response!",Neutral
+57,1198,The weight plates are missing from the package.,Negative
+58,1121,"I want to return the bench, it's too big for my room.",Neutral
+59,1008,Where is my order? It's been 10 days.,Neutral
+60,1761,The assembly instructions for the rack are very confusing.,Negative
+61,1483,The assembly instructions for the rack are very confusing.,Positive
+62,1912,My dumbbells arrived but they are scratched.,Neutral
+63,1202,"Delivery was late, but the product quality is amazing.",Positive
+64,1579,Where is my order? It's been 10 days.,Negative
+65,1035,"Delivery was late, but the product quality is amazing.",Neutral
+66,2195,"Delivery was late, but the product quality is amazing.",Neutral
+67,1552,Instruction manual is missing pages 4 and 5.,Positive
+68,1812,Is this bench compatible with the PRO rack?,Neutral
+69,1723,Can't track my shipping number on the website.,Positive
+70,2057,Can't track my shipping number on the website.,Positive
+71,1153,Instruction manual is missing pages 4 and 5.,Neutral
+72,2200,My dumbbells arrived but they are scratched.,Positive
+73,1502,"Amazing service, very fast response!",Positive
+74,2044,Is this bench compatible with the PRO rack?,Positive
+75,2067,Is this bench compatible with the PRO rack?,Neutral
+76,1950,"I want to return the bench, it's too big for my room.",Negative
+77,1497,Instruction manual is missing pages 4 and 5.,Negative
+78,1818,The assembly instructions for the rack are very confusing.,Positive
+79,1367,My dumbbells arrived but they are scratched.,Neutral
+80,1613,"Delivery was late, but the product quality is amazing.",Negative
+81,1528,"Delivery was late, but the product quality is amazing.",Positive
+82,1360,Can't track my shipping number on the website.,Negative
+83,1513,Where is my order? It's been 10 days.,Negative
+84,1455,Can't track my shipping number on the website.,Neutral
+85,1414,My dumbbells arrived but they are scratched.,Neutral
+86,2003,"Amazing service, very fast response!",Negative
+87,2111,Can't track my shipping number on the website.,Positive
+88,1596,"Amazing service, very fast response!",Positive
+89,1956,"Amazing service, very fast response!",Negative
+90,1998,Instruction manual is missing pages 4 and 5.,Negative
+91,1636,Where is my order? It's been 10 days.,Negative
+92,1260,Instruction manual is missing pages 4 and 5.,Neutral
+93,1467,"Delivery was late, but the product quality is amazing.",Neutral
+94,1919,"I want to return the bench, it's too big for my room.",Positive
+95,1761,"Amazing service, very fast response!",Negative
+96,1333,Where is my order? It's been 10 days.,Negative
+97,1270,The weight plates are missing from the package.,Negative
+98,1104,"Amazing service, very fast response!",Positive
+99,1343,The assembly instructions for the rack are very confusing.,Positive
+100,1048,My dumbbells arrived but they are scratched.,Negative
+101,1046,Where is my order? It's been 10 days.,Positive
+102,2011,The weight plates are missing from the package.,Negative
+103,1366,Instruction manual is missing pages 4 and 5.,Neutral
+104,1108,"I want to return the bench, it's too big for my room.",Positive
+105,1117,Where is my order? It's been 10 days.,Negative
+106,2102,Where is my order? It's been 10 days.,Positive
+107,1864,The weight plates are missing from the package.,Positive
+108,1446,The assembly instructions for the rack are very confusing.,Positive
+109,2055,"Delivery was late, but the product quality is amazing.",Negative
+110,1391,Can't track my shipping number on the website.,Positive
+111,1243,Where is my order? It's been 10 days.,Negative
+112,1523,My dumbbells arrived but they are scratched.,Neutral
+113,1034,The assembly instructions for the rack are very confusing.,Positive
+114,1761,"Amazing service, very fast response!",Positive
+115,1197,"I want to return the bench, it's too big for my room.",Positive
+116,1999,The weight plates are missing from the package.,Positive
+117,2075,Can't track my shipping number on the website.,Negative
+118,1797,"Amazing service, very fast response!",Neutral
+119,1688,Instruction manual is missing pages 4 and 5.,Positive
+120,1372,"I want to return the bench, it's too big for my room.",Negative
+121,1238,"Amazing service, very fast response!",Neutral
+122,1850,My dumbbells arrived but they are scratched.,Negative
+123,1624,"Delivery was late, but the product quality is amazing.",Neutral
+124,1346,"I want to return the bench, it's too big for my room.",Positive
+125,2085,"Delivery was late, but the product quality is amazing.",Positive
+126,1198,"Amazing service, very fast response!",Negative
+127,1369,Where is my order? It's been 10 days.,Neutral
+128,1483,Is this bench compatible with the PRO rack?,Positive
+129,1905,"Delivery was late, but the product quality is amazing.",Neutral
+130,2016,"Amazing service, very fast response!",Positive
+131,1470,My dumbbells arrived but they are scratched.,Negative
+132,1704,My dumbbells arrived but they are scratched.,Negative
+133,1058,The weight plates are missing from the package.,Neutral
+134,1262,My dumbbells arrived but they are scratched.,Negative
+135,1971,My dumbbells arrived but they are scratched.,Negative
+136,1906,Is this bench compatible with the PRO rack?,Positive
+137,1834,Where is my order? It's been 10 days.,Positive
+138,1868,The assembly instructions for the rack are very confusing.,Neutral
+139,1250,Can't track my shipping number on the website.,Positive
+140,2033,The assembly instructions for the rack are very confusing.,Negative
+141,1639,The assembly instructions for the rack are very confusing.,Negative
+142,1207,Where is my order? It's been 10 days.,Negative
+143,1118,"Delivery was late, but the product quality is amazing.",Neutral
+144,1394,The weight plates are missing from the package.,Positive
+145,1468,"Amazing service, very fast response!",Positive
+146,1099,Can't track my shipping number on the website.,Neutral
+147,1278,"Amazing service, very fast response!",Positive
+148,1037,Can't track my shipping number on the website.,Negative
+149,2001,"Delivery was late, but the product quality is amazing.",Positive
+150,1263,"I want to return the bench, it's too big for my room.",Negative
+151,1957,Where is my order? It's been 10 days.,Neutral
+152,1646,Where is my order? It's been 10 days.,Positive
+153,1177,Is this bench compatible with the PRO rack?,Neutral
+154,1395,"I want to return the bench, it's too big for my room.",Positive
+155,1986,Where is my order? It's been 10 days.,Neutral
+156,1208,Can't track my shipping number on the website.,Neutral
+157,1525,Instruction manual is missing pages 4 and 5.,Neutral
+158,1517,Can't track my shipping number on the website.,Neutral
+159,1719,"I want to return the bench, it's too big for my room.",Positive
+160,1623,Instruction manual is missing pages 4 and 5.,Neutral
+161,1984,Is this bench compatible with the PRO rack?,Positive
+162,1097,"I want to return the bench, it's too big for my room.",Negative
+163,1899,The assembly instructions for the rack are very confusing.,Negative
+164,1885,"Delivery was late, but the product quality is amazing.",Negative
+165,1227,Where is my order? It's been 10 days.,Negative
+166,2049,Is this bench compatible with the PRO rack?,Neutral
+167,1454,Where is my order? It's been 10 days.,Positive
+168,1481,Where is my order? It's been 10 days.,Neutral
+169,1016,My dumbbells arrived but they are scratched.,Negative
+170,1944,My dumbbells arrived but they are scratched.,Positive
+171,1280,My dumbbells arrived but they are scratched.,Negative
+172,1335,My dumbbells arrived but they are scratched.,Neutral
+173,1439,Is this bench compatible with the PRO rack?,Neutral
+174,1212,My dumbbells arrived but they are scratched.,Positive
+175,1586,The assembly instructions for the rack are very confusing.,Neutral
+176,1646,The assembly instructions for the rack are very confusing.,Positive
+177,1860,The assembly instructions for the rack are very confusing.,Positive
+178,1678,Is this bench compatible with the PRO rack?,Neutral
+179,1285,Where is my order? It's been 10 days.,Positive
+180,1214,Can't track my shipping number on the website.,Negative
+181,1662,The assembly instructions for the rack are very confusing.,Negative
+182,1924,Is this bench compatible with the PRO rack?,Positive
+183,1688,The assembly instructions for the rack are very confusing.,Neutral
+184,1927,"Delivery was late, but the product quality is amazing.",Negative
+185,2070,The assembly instructions for the rack are very confusing.,Neutral
+186,1406,"Amazing service, very fast response!",Neutral
+187,2120,My dumbbells arrived but they are scratched.,Negative
+188,1325,Instruction manual is missing pages 4 and 5.,Positive
+189,1260,Is this bench compatible with the PRO rack?,Negative
+190,2100,"I want to return the bench, it's too big for my room.",Positive
+191,1818,My dumbbells arrived but they are scratched.,Neutral
+192,2014,My dumbbells arrived but they are scratched.,Positive
+193,1126,The weight plates are missing from the package.,Neutral
+194,1772,"I want to return the bench, it's too big for my room.",Positive
+195,1722,"Delivery was late, but the product quality is amazing.",Neutral
+196,1274,The assembly instructions for the rack are very confusing.,Positive
+197,1825,My dumbbells arrived but they are scratched.,Negative
+198,2040,The assembly instructions for the rack are very confusing.,Negative
+199,1143,Instruction manual is missing pages 4 and 5.,Positive
+200,1476,The assembly instructions for the rack are very confusing.,Neutral

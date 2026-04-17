@@ -1,0 +1,1201 @@
+order_id,customer_id,channel,created_at,fulfillment_status
+1001,359,Google Ads,2025-05-18,fulfilled
+1002,97,Google Ads,2025-11-25,cancelled
+1003,284,Meta Ads,2025-02-14,fulfilled
+1004,8,Meta Ads,2025-12-13,fulfilled
+1005,443,Meta Ads,2025-09-17,fulfilled
+1006,53,Direct,2025-01-22,fulfilled
+1007,371,Meta Ads,2025-04-25,cancelled
+1008,479,Meta Ads,2025-01-23,fulfilled
+1009,257,Direct,2025-04-13,fulfilled
+1010,432,Meta Ads,2026-01-27,cancelled
+1011,390,Google Ads,2025-10-26,fulfilled
+1012,143,Email,2026-01-28,fulfilled
+1013,40,Direct,2025-11-11,fulfilled
+1014,42,Email,2025-07-26,fulfilled
+1015,101,Meta Ads,2026-01-25,fulfilled
+1016,86,Meta Ads,2026-01-31,fulfilled
+1017,365,Google Ads,2025-06-21,fulfilled
+1018,377,Google Ads,2025-03-18,restocked
+1019,99,Google Ads,2025-06-15,fulfilled
+1020,2,Meta Ads,2025-03-06,fulfilled
+1021,483,Meta Ads,2025-01-25,fulfilled
+1022,218,Google Ads,2026-03-25,fulfilled
+1023,76,Meta Ads,2025-01-18,cancelled
+1024,81,Direct,2025-09-03,fulfilled
+1025,179,Google Ads,2025-07-14,restocked
+1026,288,Email,2025-10-19,fulfilled
+1027,458,Meta Ads,2025-01-15,fulfilled
+1028,152,Email,2025-11-27,fulfilled
+1029,391,Direct,2025-10-16,fulfilled
+1030,86,Meta Ads,2025-06-09,fulfilled
+1031,251,Google Ads,2026-03-19,fulfilled
+1032,218,Email,2026-01-15,fulfilled
+1033,333,Meta Ads,2025-03-20,fulfilled
+1034,371,Meta Ads,2025-11-16,fulfilled
+1035,223,Meta Ads,2026-02-16,fulfilled
+1036,52,Direct,2025-09-16,fulfilled
+1037,230,Meta Ads,2025-04-06,fulfilled
+1038,91,Google Ads,2025-03-23,fulfilled
+1039,76,Meta Ads,2025-06-09,fulfilled
+1040,20,Meta Ads,2026-02-18,fulfilled
+1041,216,Google Ads,2025-08-26,fulfilled
+1042,185,Meta Ads,2025-02-11,fulfilled
+1043,4,Meta Ads,2025-07-13,fulfilled
+1044,406,Meta Ads,2025-05-28,fulfilled
+1045,148,Meta Ads,2025-01-01,fulfilled
+1046,374,Meta Ads,2025-04-27,fulfilled
+1047,401,Google Ads,2025-09-03,fulfilled
+1048,468,Direct,2025-08-31,fulfilled
+1049,20,Meta Ads,2025-04-21,fulfilled
+1050,330,Meta Ads,2026-02-06,fulfilled
+1051,170,Google Ads,2025-03-27,fulfilled
+1052,339,Google Ads,2025-03-03,fulfilled
+1053,365,Google Ads,2025-04-27,fulfilled
+1054,121,Meta Ads,2025-08-19,fulfilled
+1055,189,Direct,2026-01-23,fulfilled
+1056,178,Google Ads,2025-07-31,fulfilled
+1057,35,Meta Ads,2026-03-01,cancelled
+1058,94,Direct,2025-05-04,fulfilled
+1059,53,Direct,2025-06-15,fulfilled
+1060,103,Google Ads,2026-01-21,fulfilled
+1061,275,Email,2026-02-11,fulfilled
+1062,245,Meta Ads,2025-10-14,fulfilled
+1063,458,Meta Ads,2025-03-28,fulfilled
+1064,170,Google Ads,2025-04-08,fulfilled
+1065,5,Email,2025-08-01,fulfilled
+1066,321,Meta Ads,2025-10-05,fulfilled
+1067,199,Google Ads,2025-11-04,fulfilled
+1068,327,Meta Ads,2025-12-26,fulfilled
+1069,231,Google Ads,2025-05-16,restocked
+1070,337,Meta Ads,2025-01-29,fulfilled
+1071,231,Direct,2025-12-03,fulfilled
+1072,23,Meta Ads,2025-08-10,fulfilled
+1073,422,Meta Ads,2025-03-19,fulfilled
+1074,142,Meta Ads,2025-10-14,fulfilled
+1075,210,Direct,2026-01-22,cancelled
+1076,14,Direct,2025-03-20,restocked
+1077,155,Direct,2025-08-13,fulfilled
+1078,383,Email,2025-02-04,fulfilled
+1079,456,Meta Ads,2026-03-18,restocked
+1080,27,Meta Ads,2025-03-09,cancelled
+1081,214,Email,2025-08-19,fulfilled
+1082,196,Email,2025-11-02,fulfilled
+1083,191,Google Ads,2025-12-22,fulfilled
+1084,376,Direct,2025-04-07,fulfilled
+1085,110,Google Ads,2026-02-27,fulfilled
+1086,474,Meta Ads,2025-02-12,fulfilled
+1087,110,Meta Ads,2025-10-12,fulfilled
+1088,36,Google Ads,2026-01-19,fulfilled
+1089,486,Direct,2025-05-22,fulfilled
+1090,379,Email,2025-10-06,fulfilled
+1091,301,Meta Ads,2025-10-23,fulfilled
+1092,160,Direct,2025-01-13,fulfilled
+1093,485,Meta Ads,2026-03-15,fulfilled
+1094,59,Direct,2026-01-17,fulfilled
+1095,243,Direct,2025-10-14,fulfilled
+1096,434,Google Ads,2025-10-20,fulfilled
+1097,302,Google Ads,2025-07-30,fulfilled
+1098,358,Direct,2025-12-20,fulfilled
+1099,410,Meta Ads,2025-03-09,fulfilled
+1100,279,Email,2025-05-16,fulfilled
+1101,379,Email,2026-01-08,fulfilled
+1102,312,Meta Ads,2025-03-24,fulfilled
+1103,122,Meta Ads,2025-11-06,fulfilled
+1104,186,Meta Ads,2025-11-02,fulfilled
+1105,142,Meta Ads,2025-03-28,fulfilled
+1106,389,Meta Ads,2026-01-17,fulfilled
+1107,338,Google Ads,2025-11-25,fulfilled
+1108,213,Direct,2025-11-07,fulfilled
+1109,94,Meta Ads,2025-09-13,fulfilled
+1110,4,Google Ads,2025-03-30,fulfilled
+1111,177,Direct,2025-02-14,fulfilled
+1112,237,Meta Ads,2026-02-27,fulfilled
+1113,51,Google Ads,2025-04-08,fulfilled
+1114,492,Google Ads,2026-01-21,fulfilled
+1115,461,Meta Ads,2026-01-27,fulfilled
+1116,141,Meta Ads,2025-09-15,fulfilled
+1117,267,Direct,2026-03-14,fulfilled
+1118,173,Google Ads,2026-01-20,fulfilled
+1119,19,Meta Ads,2025-02-28,fulfilled
+1120,364,Meta Ads,2025-09-15,fulfilled
+1121,395,Direct,2026-03-07,fulfilled
+1122,437,Direct,2026-01-27,fulfilled
+1123,135,Email,2025-04-14,fulfilled
+1124,248,Meta Ads,2025-01-30,fulfilled
+1125,44,Direct,2025-05-25,fulfilled
+1126,335,Google Ads,2025-04-16,fulfilled
+1127,477,Direct,2026-03-15,fulfilled
+1128,41,Email,2026-02-02,fulfilled
+1129,476,Meta Ads,2025-07-29,fulfilled
+1130,69,Google Ads,2025-05-19,fulfilled
+1131,250,Direct,2025-02-20,fulfilled
+1132,76,Meta Ads,2025-01-05,fulfilled
+1133,305,Direct,2025-04-11,fulfilled
+1134,149,Meta Ads,2025-02-04,fulfilled
+1135,376,Google Ads,2025-08-02,restocked
+1136,17,Meta Ads,2025-11-09,fulfilled
+1137,433,Email,2025-09-09,fulfilled
+1138,493,Google Ads,2025-07-26,fulfilled
+1139,426,Meta Ads,2026-02-19,fulfilled
+1140,150,Direct,2026-02-03,fulfilled
+1141,59,Email,2025-08-19,fulfilled
+1142,346,Google Ads,2026-01-06,fulfilled
+1143,310,Email,2025-01-21,fulfilled
+1144,445,Google Ads,2026-02-24,fulfilled
+1145,321,Google Ads,2025-05-03,fulfilled
+1146,40,Direct,2025-12-06,fulfilled
+1147,229,Direct,2025-02-24,restocked
+1148,160,Direct,2025-12-07,fulfilled
+1149,199,Direct,2025-05-06,fulfilled
+1150,489,Direct,2025-03-15,restocked
+1151,155,Google Ads,2026-03-14,fulfilled
+1152,182,Direct,2025-08-14,fulfilled
+1153,301,Google Ads,2025-03-03,fulfilled
+1154,49,Meta Ads,2026-03-04,fulfilled
+1155,136,Meta Ads,2025-09-01,fulfilled
+1156,207,Google Ads,2025-12-30,fulfilled
+1157,176,Meta Ads,2025-07-11,fulfilled
+1158,45,Meta Ads,2025-08-15,fulfilled
+1159,194,Direct,2025-06-23,fulfilled
+1160,132,Meta Ads,2026-02-15,fulfilled
+1161,156,Meta Ads,2025-03-15,fulfilled
+1162,86,Google Ads,2025-04-20,fulfilled
+1163,83,Meta Ads,2025-10-19,fulfilled
+1164,101,Meta Ads,2025-06-28,fulfilled
+1165,41,Direct,2025-08-31,fulfilled
+1166,156,Email,2025-08-21,fulfilled
+1167,477,Direct,2025-12-15,fulfilled
+1168,280,Google Ads,2025-05-31,fulfilled
+1169,178,Meta Ads,2025-07-27,fulfilled
+1170,199,Meta Ads,2025-01-26,fulfilled
+1171,346,Google Ads,2025-12-03,fulfilled
+1172,236,Google Ads,2025-12-10,fulfilled
+1173,146,Meta Ads,2025-03-24,fulfilled
+1174,136,Email,2026-02-14,fulfilled
+1175,13,Meta Ads,2025-08-09,fulfilled
+1176,44,Meta Ads,2026-01-04,fulfilled
+1177,386,Meta Ads,2025-07-26,fulfilled
+1178,420,Google Ads,2025-02-06,fulfilled
+1179,35,Meta Ads,2025-06-15,fulfilled
+1180,361,Direct,2025-07-11,fulfilled
+1181,115,Google Ads,2025-08-30,fulfilled
+1182,245,Meta Ads,2025-12-16,fulfilled
+1183,107,Google Ads,2025-10-22,fulfilled
+1184,19,Direct,2025-05-20,fulfilled
+1185,424,Meta Ads,2025-03-26,fulfilled
+1186,62,Direct,2025-02-13,fulfilled
+1187,430,Google Ads,2026-02-14,fulfilled
+1188,499,Google Ads,2025-01-30,fulfilled
+1189,467,Email,2025-03-17,fulfilled
+1190,452,Google Ads,2025-11-04,fulfilled
+1191,386,Direct,2025-10-21,fulfilled
+1192,74,Meta Ads,2025-01-29,fulfilled
+1193,95,Direct,2025-03-17,fulfilled
+1194,267,Google Ads,2025-07-08,fulfilled
+1195,14,Google Ads,2025-09-03,fulfilled
+1196,106,Meta Ads,2025-11-03,fulfilled
+1197,319,Meta Ads,2026-01-18,fulfilled
+1198,110,Direct,2025-09-27,fulfilled
+1199,64,Meta Ads,2025-07-31,fulfilled
+1200,390,Meta Ads,2025-12-28,fulfilled
+1201,272,Email,2026-01-20,fulfilled
+1202,111,Direct,2025-10-21,fulfilled
+1203,29,Google Ads,2025-04-08,fulfilled
+1204,396,Email,2025-01-15,fulfilled
+1205,107,Email,2025-09-10,restocked
+1206,264,Direct,2025-04-25,restocked
+1207,82,Direct,2026-02-14,cancelled
+1208,182,Google Ads,2025-03-06,fulfilled
+1209,495,Google Ads,2025-02-08,fulfilled
+1210,417,Meta Ads,2025-05-06,fulfilled
+1211,222,Meta Ads,2025-05-09,fulfilled
+1212,321,Direct,2025-12-07,fulfilled
+1213,41,Direct,2025-03-01,fulfilled
+1214,347,Meta Ads,2025-05-31,fulfilled
+1215,207,Direct,2025-08-03,fulfilled
+1216,401,Direct,2025-10-29,restocked
+1217,138,Direct,2025-11-25,fulfilled
+1218,312,Google Ads,2025-08-19,fulfilled
+1219,443,Meta Ads,2025-10-22,fulfilled
+1220,9,Email,2025-04-10,cancelled
+1221,432,Meta Ads,2025-06-23,fulfilled
+1222,318,Google Ads,2025-05-30,fulfilled
+1223,32,Direct,2025-04-08,fulfilled
+1224,378,Email,2025-12-24,fulfilled
+1225,39,Meta Ads,2026-03-12,fulfilled
+1226,59,Meta Ads,2025-02-17,restocked
+1227,136,Meta Ads,2025-03-30,fulfilled
+1228,66,Meta Ads,2025-07-04,fulfilled
+1229,426,Google Ads,2025-08-26,fulfilled
+1230,410,Google Ads,2025-06-17,cancelled
+1231,478,Meta Ads,2025-12-04,fulfilled
+1232,322,Direct,2025-04-01,cancelled
+1233,321,Meta Ads,2025-07-28,fulfilled
+1234,235,Google Ads,2025-04-06,fulfilled
+1235,79,Meta Ads,2026-02-05,fulfilled
+1236,85,Google Ads,2025-04-16,fulfilled
+1237,319,Email,2026-03-13,fulfilled
+1238,284,Google Ads,2025-11-11,fulfilled
+1239,423,Meta Ads,2025-12-21,fulfilled
+1240,275,Google Ads,2025-05-24,fulfilled
+1241,433,Direct,2025-02-08,fulfilled
+1242,445,Email,2025-08-25,fulfilled
+1243,499,Meta Ads,2025-02-11,fulfilled
+1244,393,Google Ads,2026-02-17,fulfilled
+1245,286,Meta Ads,2025-02-09,fulfilled
+1246,423,Meta Ads,2025-08-12,fulfilled
+1247,233,Direct,2025-03-20,fulfilled
+1248,70,Direct,2026-03-26,fulfilled
+1249,227,Email,2026-02-15,fulfilled
+1250,274,Meta Ads,2025-04-29,fulfilled
+1251,13,Google Ads,2025-02-22,restocked
+1252,431,Direct,2025-02-14,fulfilled
+1253,339,Meta Ads,2025-01-11,fulfilled
+1254,220,Google Ads,2025-01-10,fulfilled
+1255,311,Meta Ads,2025-08-08,fulfilled
+1256,287,Meta Ads,2025-07-27,fulfilled
+1257,274,Meta Ads,2025-07-16,fulfilled
+1258,295,Meta Ads,2026-02-10,fulfilled
+1259,5,Google Ads,2025-07-27,fulfilled
+1260,327,Email,2025-02-01,fulfilled
+1261,136,Google Ads,2025-01-06,fulfilled
+1262,214,Google Ads,2025-06-10,fulfilled
+1263,371,Google Ads,2025-04-04,fulfilled
+1264,461,Direct,2025-01-12,fulfilled
+1265,225,Email,2025-07-07,fulfilled
+1266,440,Email,2025-09-12,fulfilled
+1267,206,Google Ads,2025-08-24,fulfilled
+1268,47,Google Ads,2026-02-22,fulfilled
+1269,192,Direct,2025-04-18,fulfilled
+1270,391,Email,2026-02-11,cancelled
+1271,197,Google Ads,2025-12-28,fulfilled
+1272,115,Google Ads,2025-02-01,fulfilled
+1273,37,Google Ads,2025-12-27,fulfilled
+1274,295,Direct,2025-08-16,fulfilled
+1275,87,Direct,2025-08-19,fulfilled
+1276,386,Direct,2025-12-29,fulfilled
+1277,55,Google Ads,2025-04-16,cancelled
+1278,211,Google Ads,2025-01-25,fulfilled
+1279,285,Direct,2025-01-15,fulfilled
+1280,172,Google Ads,2025-08-20,fulfilled
+1281,193,Meta Ads,2025-08-03,fulfilled
+1282,419,Email,2025-05-17,fulfilled
+1283,228,Direct,2025-05-18,fulfilled
+1284,170,Meta Ads,2025-12-30,fulfilled
+1285,382,Meta Ads,2025-10-25,fulfilled
+1286,372,Email,2025-10-24,fulfilled
+1287,277,Google Ads,2026-02-02,fulfilled
+1288,100,Meta Ads,2025-04-10,fulfilled
+1289,297,Meta Ads,2025-03-26,fulfilled
+1290,170,Meta Ads,2025-11-16,fulfilled
+1291,129,Direct,2025-05-28,fulfilled
+1292,251,Google Ads,2025-10-24,fulfilled
+1293,434,Meta Ads,2025-03-28,fulfilled
+1294,283,Meta Ads,2025-02-11,restocked
+1295,252,Email,2025-12-21,fulfilled
+1296,385,Google Ads,2025-02-02,fulfilled
+1297,314,Direct,2025-09-24,restocked
+1298,262,Meta Ads,2026-02-25,fulfilled
+1299,273,Meta Ads,2025-01-03,fulfilled
+1300,238,Meta Ads,2025-09-02,fulfilled
+1301,1,Direct,2025-06-09,fulfilled
+1302,212,Google Ads,2025-11-04,fulfilled
+1303,164,Email,2025-01-13,fulfilled
+1304,20,Meta Ads,2026-03-18,fulfilled
+1305,48,Google Ads,2026-03-10,fulfilled
+1306,448,Meta Ads,2025-02-16,fulfilled
+1307,287,Google Ads,2025-03-09,fulfilled
+1308,201,Google Ads,2025-01-21,fulfilled
+1309,485,Meta Ads,2026-01-15,cancelled
+1310,61,Meta Ads,2025-06-08,fulfilled
+1311,144,Google Ads,2025-04-27,fulfilled
+1312,252,Google Ads,2025-02-23,fulfilled
+1313,301,Meta Ads,2025-08-15,fulfilled
+1314,66,Google Ads,2026-01-30,fulfilled
+1315,394,Meta Ads,2025-12-13,fulfilled
+1316,371,Google Ads,2025-11-17,fulfilled
+1317,481,Email,2025-04-30,fulfilled
+1318,303,Meta Ads,2026-03-18,fulfilled
+1319,486,Meta Ads,2025-08-18,fulfilled
+1320,266,Direct,2025-02-22,fulfilled
+1321,409,Google Ads,2025-11-27,fulfilled
+1322,6,Google Ads,2025-02-06,fulfilled
+1323,433,Meta Ads,2026-03-13,fulfilled
+1324,170,Direct,2025-03-04,fulfilled
+1325,494,Google Ads,2025-07-10,fulfilled
+1326,218,Google Ads,2026-02-07,fulfilled
+1327,159,Google Ads,2026-03-17,fulfilled
+1328,154,Meta Ads,2025-01-15,fulfilled
+1329,365,Meta Ads,2025-02-12,fulfilled
+1330,247,Google Ads,2025-06-01,fulfilled
+1331,43,Meta Ads,2025-06-10,restocked
+1332,54,Direct,2025-01-14,fulfilled
+1333,254,Meta Ads,2025-04-15,fulfilled
+1334,306,Google Ads,2025-10-11,fulfilled
+1335,244,Direct,2025-12-30,fulfilled
+1336,152,Direct,2025-06-24,fulfilled
+1337,101,Google Ads,2026-01-08,fulfilled
+1338,167,Meta Ads,2025-01-15,fulfilled
+1339,428,Direct,2026-01-01,fulfilled
+1340,196,Direct,2026-02-01,fulfilled
+1341,131,Direct,2025-07-23,fulfilled
+1342,488,Direct,2025-12-30,fulfilled
+1343,291,Google Ads,2025-12-06,fulfilled
+1344,150,Google Ads,2025-04-14,fulfilled
+1345,58,Direct,2025-11-28,fulfilled
+1346,90,Direct,2025-07-29,fulfilled
+1347,381,Google Ads,2025-03-07,fulfilled
+1348,197,Google Ads,2025-01-13,fulfilled
+1349,271,Meta Ads,2025-10-26,fulfilled
+1350,381,Email,2025-11-01,fulfilled
+1351,263,Google Ads,2025-07-30,fulfilled
+1352,373,Meta Ads,2025-06-07,restocked
+1353,427,Email,2025-03-01,fulfilled
+1354,172,Meta Ads,2025-03-18,fulfilled
+1355,292,Direct,2025-07-20,fulfilled
+1356,96,Direct,2026-02-02,fulfilled
+1357,107,Google Ads,2026-03-14,fulfilled
+1358,200,Email,2025-08-27,fulfilled
+1359,415,Email,2025-04-06,fulfilled
+1360,357,Meta Ads,2025-11-21,fulfilled
+1361,196,Meta Ads,2025-10-05,fulfilled
+1362,409,Google Ads,2025-02-23,fulfilled
+1363,2,Direct,2026-01-31,fulfilled
+1364,222,Meta Ads,2025-06-24,fulfilled
+1365,377,Meta Ads,2025-04-12,fulfilled
+1366,314,Direct,2025-01-30,fulfilled
+1367,356,Direct,2025-12-17,fulfilled
+1368,156,Email,2025-11-19,fulfilled
+1369,24,Google Ads,2025-08-23,fulfilled
+1370,156,Direct,2025-02-27,cancelled
+1371,281,Google Ads,2025-11-20,fulfilled
+1372,410,Meta Ads,2025-03-13,fulfilled
+1373,485,Email,2025-05-13,fulfilled
+1374,251,Google Ads,2025-06-26,fulfilled
+1375,235,Meta Ads,2026-01-25,fulfilled
+1376,23,Direct,2025-12-16,fulfilled
+1377,167,Google Ads,2025-07-26,fulfilled
+1378,342,Direct,2025-12-05,fulfilled
+1379,192,Meta Ads,2025-05-28,cancelled
+1380,219,Google Ads,2026-03-11,fulfilled
+1381,371,Google Ads,2025-01-02,fulfilled
+1382,249,Meta Ads,2025-08-01,fulfilled
+1383,150,Google Ads,2026-01-30,fulfilled
+1384,364,Google Ads,2025-07-23,fulfilled
+1385,257,Meta Ads,2025-02-23,fulfilled
+1386,87,Meta Ads,2026-03-13,fulfilled
+1387,409,Google Ads,2025-11-03,fulfilled
+1388,172,Direct,2025-04-08,fulfilled
+1389,137,Meta Ads,2025-04-20,fulfilled
+1390,124,Google Ads,2025-05-26,fulfilled
+1391,380,Google Ads,2025-05-23,fulfilled
+1392,167,Meta Ads,2025-12-08,fulfilled
+1393,34,Google Ads,2025-10-07,fulfilled
+1394,387,Google Ads,2025-09-24,fulfilled
+1395,232,Meta Ads,2025-12-25,fulfilled
+1396,233,Meta Ads,2025-05-24,fulfilled
+1397,191,Google Ads,2026-02-11,fulfilled
+1398,212,Google Ads,2025-10-31,fulfilled
+1399,81,Meta Ads,2025-11-24,fulfilled
+1400,130,Google Ads,2025-10-16,fulfilled
+1401,188,Meta Ads,2026-03-23,fulfilled
+1402,370,Direct,2025-09-15,fulfilled
+1403,269,Email,2025-12-13,fulfilled
+1404,134,Direct,2026-02-06,fulfilled
+1405,110,Direct,2026-02-15,fulfilled
+1406,22,Google Ads,2025-04-20,cancelled
+1407,223,Direct,2026-03-22,fulfilled
+1408,398,Direct,2025-07-18,fulfilled
+1409,28,Google Ads,2026-01-12,fulfilled
+1410,393,Google Ads,2025-04-25,fulfilled
+1411,183,Email,2026-02-25,cancelled
+1412,66,Meta Ads,2025-08-24,fulfilled
+1413,498,Google Ads,2025-03-11,fulfilled
+1414,243,Google Ads,2025-04-26,fulfilled
+1415,348,Google Ads,2025-09-30,fulfilled
+1416,130,Direct,2025-02-14,fulfilled
+1417,154,Meta Ads,2025-04-12,fulfilled
+1418,308,Meta Ads,2025-10-15,fulfilled
+1419,348,Google Ads,2025-01-07,fulfilled
+1420,486,Google Ads,2025-10-14,fulfilled
+1421,100,Direct,2025-06-05,fulfilled
+1422,381,Meta Ads,2025-03-21,fulfilled
+1423,73,Direct,2025-09-05,fulfilled
+1424,387,Google Ads,2025-01-25,fulfilled
+1425,197,Google Ads,2025-08-17,fulfilled
+1426,352,Meta Ads,2025-06-15,fulfilled
+1427,205,Meta Ads,2025-03-23,fulfilled
+1428,421,Google Ads,2025-10-28,fulfilled
+1429,458,Direct,2025-10-14,fulfilled
+1430,424,Google Ads,2026-02-20,cancelled
+1431,358,Google Ads,2025-12-08,cancelled
+1432,325,Meta Ads,2025-04-23,fulfilled
+1433,313,Email,2026-03-15,fulfilled
+1434,271,Meta Ads,2025-07-27,fulfilled
+1435,412,Email,2025-06-23,fulfilled
+1436,280,Meta Ads,2025-12-04,fulfilled
+1437,168,Google Ads,2025-01-12,fulfilled
+1438,270,Meta Ads,2026-03-10,fulfilled
+1439,365,Direct,2025-02-02,restocked
+1440,151,Direct,2025-04-13,fulfilled
+1441,106,Google Ads,2026-03-26,fulfilled
+1442,217,Google Ads,2025-01-05,cancelled
+1443,186,Google Ads,2025-04-11,fulfilled
+1444,300,Meta Ads,2025-09-16,fulfilled
+1445,292,Meta Ads,2025-04-11,fulfilled
+1446,391,Direct,2025-05-03,fulfilled
+1447,273,Direct,2025-05-20,fulfilled
+1448,459,Meta Ads,2025-05-08,fulfilled
+1449,341,Meta Ads,2026-02-24,fulfilled
+1450,444,Email,2026-01-03,fulfilled
+1451,401,Google Ads,2025-09-12,fulfilled
+1452,318,Direct,2026-03-05,fulfilled
+1453,437,Google Ads,2025-01-18,fulfilled
+1454,387,Meta Ads,2026-01-16,fulfilled
+1455,47,Direct,2025-10-18,fulfilled
+1456,477,Meta Ads,2025-04-05,fulfilled
+1457,211,Meta Ads,2025-02-24,cancelled
+1458,139,Email,2026-01-10,fulfilled
+1459,402,Direct,2025-09-15,restocked
+1460,148,Direct,2025-01-08,fulfilled
+1461,370,Google Ads,2025-07-25,fulfilled
+1462,70,Meta Ads,2025-10-23,fulfilled
+1463,27,Google Ads,2025-11-06,fulfilled
+1464,314,Direct,2026-01-07,fulfilled
+1465,180,Meta Ads,2026-03-12,fulfilled
+1466,495,Google Ads,2025-03-21,fulfilled
+1467,482,Google Ads,2025-10-11,restocked
+1468,11,Direct,2026-01-31,fulfilled
+1469,315,Direct,2025-12-24,fulfilled
+1470,111,Meta Ads,2025-05-24,restocked
+1471,462,Meta Ads,2026-03-13,fulfilled
+1472,81,Google Ads,2025-03-10,fulfilled
+1473,44,Google Ads,2025-03-03,restocked
+1474,63,Google Ads,2026-02-06,fulfilled
+1475,23,Meta Ads,2025-10-21,fulfilled
+1476,246,Meta Ads,2025-10-15,fulfilled
+1477,28,Google Ads,2025-06-03,fulfilled
+1478,130,Meta Ads,2025-09-25,fulfilled
+1479,483,Email,2025-09-17,fulfilled
+1480,83,Meta Ads,2025-02-26,fulfilled
+1481,2,Direct,2025-11-05,fulfilled
+1482,311,Meta Ads,2025-06-05,fulfilled
+1483,231,Meta Ads,2025-02-25,cancelled
+1484,260,Meta Ads,2025-07-23,restocked
+1485,174,Meta Ads,2025-09-01,restocked
+1486,292,Direct,2025-01-07,fulfilled
+1487,170,Direct,2025-01-05,fulfilled
+1488,76,Google Ads,2025-02-22,fulfilled
+1489,68,Meta Ads,2025-11-16,fulfilled
+1490,486,Meta Ads,2026-01-28,fulfilled
+1491,338,Meta Ads,2025-04-05,cancelled
+1492,435,Google Ads,2026-02-18,fulfilled
+1493,382,Meta Ads,2025-12-11,fulfilled
+1494,262,Google Ads,2025-05-02,fulfilled
+1495,241,Google Ads,2025-03-18,fulfilled
+1496,213,Google Ads,2025-07-04,fulfilled
+1497,414,Meta Ads,2025-12-29,fulfilled
+1498,202,Meta Ads,2025-09-22,cancelled
+1499,138,Direct,2025-03-04,fulfilled
+1500,26,Meta Ads,2025-09-16,fulfilled
+1501,255,Meta Ads,2025-04-20,fulfilled
+1502,216,Meta Ads,2025-02-23,fulfilled
+1503,281,Google Ads,2025-09-09,fulfilled
+1504,437,Email,2025-06-10,fulfilled
+1505,198,Google Ads,2025-06-16,fulfilled
+1506,13,Google Ads,2025-10-30,fulfilled
+1507,347,Google Ads,2025-01-07,fulfilled
+1508,327,Email,2025-05-02,fulfilled
+1509,42,Google Ads,2025-08-28,fulfilled
+1510,246,Email,2025-06-14,fulfilled
+1511,420,Direct,2025-01-13,fulfilled
+1512,456,Direct,2025-01-19,fulfilled
+1513,240,Email,2026-03-21,fulfilled
+1514,444,Google Ads,2025-11-22,restocked
+1515,366,Meta Ads,2025-12-06,fulfilled
+1516,421,Google Ads,2025-05-02,fulfilled
+1517,207,Google Ads,2025-03-07,fulfilled
+1518,408,Meta Ads,2025-11-04,fulfilled
+1519,482,Direct,2025-03-10,fulfilled
+1520,341,Direct,2025-01-28,fulfilled
+1521,180,Google Ads,2025-08-01,fulfilled
+1522,401,Meta Ads,2026-02-06,fulfilled
+1523,461,Google Ads,2025-06-10,fulfilled
+1524,80,Direct,2025-03-20,fulfilled
+1525,446,Meta Ads,2025-11-11,restocked
+1526,330,Direct,2025-08-06,fulfilled
+1527,334,Google Ads,2025-01-11,fulfilled
+1528,425,Direct,2025-11-08,fulfilled
+1529,377,Meta Ads,2026-03-16,restocked
+1530,425,Meta Ads,2025-08-08,fulfilled
+1531,83,Meta Ads,2026-03-14,fulfilled
+1532,4,Google Ads,2025-07-16,fulfilled
+1533,128,Google Ads,2025-03-23,fulfilled
+1534,171,Meta Ads,2026-02-05,fulfilled
+1535,366,Meta Ads,2026-01-21,fulfilled
+1536,276,Meta Ads,2025-11-11,fulfilled
+1537,203,Google Ads,2025-04-04,fulfilled
+1538,32,Email,2025-08-15,fulfilled
+1539,285,Meta Ads,2025-03-03,fulfilled
+1540,393,Google Ads,2025-05-18,fulfilled
+1541,285,Google Ads,2025-04-04,fulfilled
+1542,40,Google Ads,2025-06-09,fulfilled
+1543,366,Direct,2025-07-04,fulfilled
+1544,311,Meta Ads,2025-12-05,fulfilled
+1545,273,Meta Ads,2025-12-19,fulfilled
+1546,143,Meta Ads,2025-06-27,fulfilled
+1547,63,Meta Ads,2025-07-21,fulfilled
+1548,68,Meta Ads,2026-02-20,fulfilled
+1549,362,Google Ads,2025-10-31,fulfilled
+1550,150,Meta Ads,2025-04-24,fulfilled
+1551,240,Google Ads,2025-02-12,fulfilled
+1552,304,Meta Ads,2025-10-23,fulfilled
+1553,44,Meta Ads,2025-08-06,cancelled
+1554,87,Google Ads,2025-11-17,fulfilled
+1555,226,Direct,2025-07-16,fulfilled
+1556,113,Meta Ads,2026-03-23,fulfilled
+1557,393,Meta Ads,2025-10-11,cancelled
+1558,310,Google Ads,2025-06-22,fulfilled
+1559,119,Meta Ads,2025-12-26,fulfilled
+1560,223,Meta Ads,2025-01-23,fulfilled
+1561,370,Meta Ads,2025-09-05,fulfilled
+1562,125,Google Ads,2025-12-02,fulfilled
+1563,379,Google Ads,2025-12-15,fulfilled
+1564,396,Email,2025-07-28,fulfilled
+1565,270,Google Ads,2025-04-17,fulfilled
+1566,128,Direct,2025-02-08,fulfilled
+1567,192,Meta Ads,2025-01-25,fulfilled
+1568,474,Meta Ads,2026-03-10,fulfilled
+1569,158,Meta Ads,2025-07-10,fulfilled
+1570,115,Google Ads,2025-03-14,fulfilled
+1571,454,Meta Ads,2025-07-08,fulfilled
+1572,312,Google Ads,2026-01-24,fulfilled
+1573,427,Meta Ads,2025-11-24,fulfilled
+1574,454,Meta Ads,2025-05-10,fulfilled
+1575,439,Email,2025-07-27,cancelled
+1576,354,Meta Ads,2025-09-30,fulfilled
+1577,167,Meta Ads,2025-01-21,fulfilled
+1578,35,Meta Ads,2025-10-21,fulfilled
+1579,27,Email,2025-06-28,restocked
+1580,215,Direct,2026-02-20,fulfilled
+1581,271,Meta Ads,2025-03-15,fulfilled
+1582,258,Direct,2025-04-23,fulfilled
+1583,382,Meta Ads,2025-11-15,fulfilled
+1584,142,Direct,2025-09-15,fulfilled
+1585,156,Meta Ads,2026-02-20,restocked
+1586,168,Meta Ads,2025-03-24,cancelled
+1587,436,Google Ads,2025-08-30,fulfilled
+1588,249,Meta Ads,2025-12-13,cancelled
+1589,399,Meta Ads,2025-05-04,cancelled
+1590,257,Google Ads,2025-04-29,fulfilled
+1591,376,Direct,2025-01-02,fulfilled
+1592,413,Google Ads,2025-07-18,fulfilled
+1593,126,Meta Ads,2026-02-19,fulfilled
+1594,345,Google Ads,2025-06-04,fulfilled
+1595,63,Meta Ads,2025-12-05,fulfilled
+1596,61,Email,2025-10-29,fulfilled
+1597,328,Direct,2025-06-24,fulfilled
+1598,129,Meta Ads,2026-01-22,fulfilled
+1599,447,Meta Ads,2025-04-04,fulfilled
+1600,450,Google Ads,2025-07-19,fulfilled
+1601,324,Direct,2025-04-24,fulfilled
+1602,416,Meta Ads,2025-08-10,fulfilled
+1603,424,Meta Ads,2026-02-27,fulfilled
+1604,259,Google Ads,2025-02-16,fulfilled
+1605,384,Meta Ads,2025-08-19,fulfilled
+1606,86,Direct,2025-03-03,fulfilled
+1607,130,Meta Ads,2025-10-04,fulfilled
+1608,370,Google Ads,2025-02-26,fulfilled
+1609,239,Meta Ads,2025-06-05,fulfilled
+1610,75,Meta Ads,2025-10-13,fulfilled
+1611,193,Meta Ads,2025-09-08,fulfilled
+1612,446,Direct,2025-12-30,fulfilled
+1613,91,Meta Ads,2025-10-22,fulfilled
+1614,479,Google Ads,2026-01-14,fulfilled
+1615,409,Google Ads,2026-01-11,fulfilled
+1616,452,Google Ads,2025-01-03,fulfilled
+1617,256,Email,2025-03-08,fulfilled
+1618,148,Direct,2026-01-21,fulfilled
+1619,481,Google Ads,2025-10-01,fulfilled
+1620,47,Direct,2026-01-03,restocked
+1621,39,Google Ads,2025-09-15,fulfilled
+1622,441,Email,2025-08-02,fulfilled
+1623,38,Google Ads,2026-01-26,fulfilled
+1624,11,Google Ads,2025-08-05,fulfilled
+1625,185,Email,2025-11-28,fulfilled
+1626,313,Email,2025-08-25,fulfilled
+1627,436,Meta Ads,2025-08-25,fulfilled
+1628,129,Email,2025-01-26,fulfilled
+1629,462,Meta Ads,2025-01-30,fulfilled
+1630,27,Google Ads,2026-02-23,fulfilled
+1631,176,Email,2025-05-08,fulfilled
+1632,75,Email,2026-02-12,fulfilled
+1633,19,Meta Ads,2025-08-08,fulfilled
+1634,279,Google Ads,2025-06-03,fulfilled
+1635,125,Meta Ads,2025-01-21,fulfilled
+1636,145,Direct,2025-11-07,fulfilled
+1637,83,Direct,2025-05-05,fulfilled
+1638,439,Direct,2025-09-19,fulfilled
+1639,44,Google Ads,2025-05-18,fulfilled
+1640,332,Direct,2025-01-09,fulfilled
+1641,230,Direct,2026-02-13,fulfilled
+1642,131,Google Ads,2025-02-17,fulfilled
+1643,263,Meta Ads,2025-03-07,fulfilled
+1644,233,Direct,2025-06-12,fulfilled
+1645,320,Direct,2025-09-06,fulfilled
+1646,352,Google Ads,2026-02-01,fulfilled
+1647,59,Meta Ads,2025-10-18,fulfilled
+1648,59,Google Ads,2025-07-30,cancelled
+1649,269,Google Ads,2025-02-27,fulfilled
+1650,264,Meta Ads,2026-02-11,fulfilled
+1651,48,Google Ads,2025-12-02,fulfilled
+1652,140,Email,2025-05-07,fulfilled
+1653,46,Google Ads,2025-01-30,fulfilled
+1654,413,Meta Ads,2026-02-02,fulfilled
+1655,203,Google Ads,2025-01-16,fulfilled
+1656,58,Meta Ads,2025-01-25,fulfilled
+1657,215,Email,2025-12-31,fulfilled
+1658,197,Direct,2026-03-17,fulfilled
+1659,168,Direct,2025-07-24,fulfilled
+1660,401,Google Ads,2026-01-12,fulfilled
+1661,414,Meta Ads,2026-02-11,fulfilled
+1662,431,Meta Ads,2025-06-03,fulfilled
+1663,110,Google Ads,2025-11-12,cancelled
+1664,341,Google Ads,2025-12-25,restocked
+1665,463,Meta Ads,2025-04-29,fulfilled
+1666,294,Email,2025-08-16,fulfilled
+1667,211,Google Ads,2026-02-20,fulfilled
+1668,254,Google Ads,2025-06-07,fulfilled
+1669,264,Google Ads,2025-03-03,fulfilled
+1670,148,Direct,2025-10-13,fulfilled
+1671,53,Direct,2025-09-24,fulfilled
+1672,281,Google Ads,2026-01-19,fulfilled
+1673,321,Direct,2025-11-05,fulfilled
+1674,14,Google Ads,2026-01-12,fulfilled
+1675,418,Google Ads,2025-01-25,fulfilled
+1676,187,Meta Ads,2026-01-24,fulfilled
+1677,147,Direct,2025-02-07,fulfilled
+1678,240,Meta Ads,2025-02-09,fulfilled
+1679,244,Meta Ads,2025-08-25,fulfilled
+1680,352,Google Ads,2026-02-07,fulfilled
+1681,236,Meta Ads,2025-10-15,fulfilled
+1682,103,Meta Ads,2026-02-26,fulfilled
+1683,422,Direct,2025-01-28,cancelled
+1684,203,Email,2025-03-28,fulfilled
+1685,292,Google Ads,2025-01-16,fulfilled
+1686,103,Meta Ads,2026-02-24,fulfilled
+1687,200,Direct,2025-04-23,fulfilled
+1688,362,Meta Ads,2025-02-07,fulfilled
+1689,348,Direct,2025-07-14,fulfilled
+1690,422,Meta Ads,2025-05-18,fulfilled
+1691,48,Google Ads,2026-02-20,fulfilled
+1692,432,Google Ads,2025-03-17,fulfilled
+1693,151,Meta Ads,2026-02-27,fulfilled
+1694,87,Meta Ads,2025-01-05,fulfilled
+1695,19,Direct,2025-11-28,fulfilled
+1696,368,Meta Ads,2025-11-26,fulfilled
+1697,332,Google Ads,2026-03-14,fulfilled
+1698,9,Meta Ads,2026-01-09,fulfilled
+1699,226,Google Ads,2025-02-26,cancelled
+1700,347,Meta Ads,2025-06-17,fulfilled
+1701,221,Meta Ads,2026-02-09,cancelled
+1702,247,Direct,2025-11-14,fulfilled
+1703,408,Email,2026-01-11,fulfilled
+1704,130,Google Ads,2025-02-05,fulfilled
+1705,406,Meta Ads,2025-07-25,fulfilled
+1706,77,Direct,2025-09-15,fulfilled
+1707,290,Email,2025-01-11,fulfilled
+1708,458,Meta Ads,2026-03-06,fulfilled
+1709,108,Google Ads,2025-10-11,fulfilled
+1710,312,Meta Ads,2025-10-25,fulfilled
+1711,65,Email,2025-05-28,fulfilled
+1712,85,Google Ads,2026-01-12,fulfilled
+1713,182,Meta Ads,2026-02-20,fulfilled
+1714,467,Google Ads,2025-06-19,fulfilled
+1715,116,Meta Ads,2025-12-01,fulfilled
+1716,205,Direct,2025-04-13,fulfilled
+1717,239,Google Ads,2025-05-25,fulfilled
+1718,463,Google Ads,2025-11-04,fulfilled
+1719,299,Meta Ads,2025-09-01,fulfilled
+1720,453,Meta Ads,2025-11-09,fulfilled
+1721,391,Google Ads,2026-01-23,fulfilled
+1722,496,Email,2025-12-27,fulfilled
+1723,195,Email,2025-07-15,fulfilled
+1724,322,Meta Ads,2025-06-17,fulfilled
+1725,347,Direct,2025-11-22,fulfilled
+1726,238,Direct,2025-02-11,fulfilled
+1727,251,Email,2026-01-15,fulfilled
+1728,368,Meta Ads,2025-12-12,fulfilled
+1729,300,Direct,2025-10-12,fulfilled
+1730,59,Meta Ads,2025-07-08,restocked
+1731,403,Direct,2025-09-07,fulfilled
+1732,168,Meta Ads,2025-10-28,fulfilled
+1733,373,Google Ads,2025-06-04,fulfilled
+1734,300,Direct,2026-02-10,fulfilled
+1735,437,Google Ads,2025-03-30,cancelled
+1736,120,Direct,2025-11-14,fulfilled
+1737,317,Email,2025-11-07,fulfilled
+1738,192,Google Ads,2025-01-20,fulfilled
+1739,33,Direct,2025-11-11,fulfilled
+1740,268,Direct,2025-09-13,fulfilled
+1741,365,Meta Ads,2025-01-28,fulfilled
+1742,348,Google Ads,2026-01-07,fulfilled
+1743,187,Meta Ads,2026-03-14,fulfilled
+1744,372,Meta Ads,2025-01-31,fulfilled
+1745,215,Meta Ads,2025-07-19,fulfilled
+1746,164,Email,2025-11-09,fulfilled
+1747,12,Meta Ads,2026-01-07,fulfilled
+1748,187,Meta Ads,2025-01-01,fulfilled
+1749,463,Meta Ads,2025-12-07,fulfilled
+1750,300,Meta Ads,2026-01-23,fulfilled
+1751,297,Direct,2025-11-20,fulfilled
+1752,115,Meta Ads,2025-07-28,fulfilled
+1753,447,Direct,2025-10-10,fulfilled
+1754,236,Meta Ads,2025-04-02,fulfilled
+1755,290,Meta Ads,2026-02-16,fulfilled
+1756,470,Direct,2025-05-08,fulfilled
+1757,169,Meta Ads,2025-02-20,fulfilled
+1758,274,Direct,2026-03-25,fulfilled
+1759,405,Google Ads,2025-11-25,fulfilled
+1760,396,Meta Ads,2025-02-14,fulfilled
+1761,81,Meta Ads,2025-06-28,fulfilled
+1762,162,Direct,2025-12-29,fulfilled
+1763,327,Google Ads,2025-03-15,fulfilled
+1764,340,Meta Ads,2025-01-27,fulfilled
+1765,451,Google Ads,2025-04-15,fulfilled
+1766,189,Google Ads,2025-04-16,fulfilled
+1767,402,Direct,2025-12-04,fulfilled
+1768,150,Direct,2025-02-17,fulfilled
+1769,432,Google Ads,2025-07-24,fulfilled
+1770,297,Direct,2025-10-31,fulfilled
+1771,172,Direct,2025-04-26,fulfilled
+1772,331,Meta Ads,2025-05-17,restocked
+1773,183,Meta Ads,2025-02-07,fulfilled
+1774,326,Meta Ads,2025-04-20,fulfilled
+1775,17,Google Ads,2026-02-11,fulfilled
+1776,167,Direct,2025-09-09,fulfilled
+1777,16,Meta Ads,2025-06-02,fulfilled
+1778,29,Google Ads,2025-03-25,fulfilled
+1779,203,Email,2025-03-25,fulfilled
+1780,200,Meta Ads,2025-05-25,fulfilled
+1781,258,Google Ads,2025-10-28,fulfilled
+1782,484,Google Ads,2025-05-23,fulfilled
+1783,36,Email,2025-08-13,fulfilled
+1784,364,Meta Ads,2025-04-13,fulfilled
+1785,92,Direct,2026-02-17,fulfilled
+1786,284,Meta Ads,2025-11-27,fulfilled
+1787,232,Direct,2025-02-13,fulfilled
+1788,486,Google Ads,2025-08-16,fulfilled
+1789,106,Google Ads,2025-01-24,fulfilled
+1790,311,Direct,2025-07-22,fulfilled
+1791,167,Meta Ads,2025-06-07,fulfilled
+1792,446,Meta Ads,2026-03-04,fulfilled
+1793,291,Email,2025-06-29,fulfilled
+1794,221,Google Ads,2025-11-29,fulfilled
+1795,213,Email,2025-12-04,fulfilled
+1796,446,Google Ads,2025-09-21,fulfilled
+1797,51,Google Ads,2025-01-08,fulfilled
+1798,189,Google Ads,2025-02-23,fulfilled
+1799,12,Meta Ads,2026-03-24,fulfilled
+1800,481,Meta Ads,2025-03-24,fulfilled
+1801,178,Google Ads,2025-10-14,fulfilled
+1802,307,Google Ads,2026-02-05,cancelled
+1803,464,Meta Ads,2025-10-09,fulfilled
+1804,407,Direct,2025-12-10,fulfilled
+1805,14,Google Ads,2025-04-16,fulfilled
+1806,21,Google Ads,2026-02-04,fulfilled
+1807,80,Google Ads,2025-01-13,fulfilled
+1808,73,Email,2025-05-25,fulfilled
+1809,403,Meta Ads,2025-02-01,fulfilled
+1810,100,Google Ads,2025-12-06,fulfilled
+1811,329,Direct,2026-02-12,restocked
+1812,43,Email,2025-04-04,fulfilled
+1813,353,Meta Ads,2025-10-09,fulfilled
+1814,351,Google Ads,2025-08-08,fulfilled
+1815,345,Meta Ads,2025-03-26,fulfilled
+1816,123,Meta Ads,2025-12-31,fulfilled
+1817,150,Google Ads,2025-06-03,fulfilled
+1818,441,Email,2026-03-22,fulfilled
+1819,470,Meta Ads,2026-02-18,fulfilled
+1820,22,Meta Ads,2025-03-03,fulfilled
+1821,455,Google Ads,2025-02-04,fulfilled
+1822,497,Google Ads,2025-04-04,fulfilled
+1823,300,Meta Ads,2025-06-16,fulfilled
+1824,373,Direct,2025-11-01,fulfilled
+1825,35,Meta Ads,2025-05-27,fulfilled
+1826,295,Google Ads,2026-03-05,fulfilled
+1827,272,Google Ads,2025-07-07,fulfilled
+1828,65,Google Ads,2025-01-24,restocked
+1829,446,Meta Ads,2025-11-13,fulfilled
+1830,306,Email,2026-02-11,fulfilled
+1831,51,Google Ads,2026-03-11,fulfilled
+1832,377,Email,2025-09-09,fulfilled
+1833,242,Google Ads,2026-01-04,fulfilled
+1834,360,Direct,2026-01-01,fulfilled
+1835,153,Direct,2025-06-23,fulfilled
+1836,202,Meta Ads,2025-07-31,fulfilled
+1837,478,Direct,2025-12-17,fulfilled
+1838,249,Meta Ads,2026-02-18,fulfilled
+1839,120,Meta Ads,2025-05-28,fulfilled
+1840,370,Meta Ads,2026-02-04,fulfilled
+1841,431,Google Ads,2025-11-03,fulfilled
+1842,332,Meta Ads,2025-08-29,fulfilled
+1843,476,Google Ads,2025-06-19,restocked
+1844,254,Meta Ads,2025-11-28,fulfilled
+1845,65,Google Ads,2026-03-15,fulfilled
+1846,117,Google Ads,2026-02-03,fulfilled
+1847,409,Meta Ads,2025-02-18,fulfilled
+1848,489,Google Ads,2025-08-30,fulfilled
+1849,460,Meta Ads,2025-05-13,fulfilled
+1850,150,Meta Ads,2025-01-18,fulfilled
+1851,426,Meta Ads,2025-10-23,fulfilled
+1852,230,Meta Ads,2025-04-12,fulfilled
+1853,494,Direct,2025-12-13,fulfilled
+1854,488,Meta Ads,2025-02-25,cancelled
+1855,471,Meta Ads,2025-04-13,fulfilled
+1856,330,Email,2025-12-03,fulfilled
+1857,223,Google Ads,2025-02-22,fulfilled
+1858,79,Meta Ads,2025-08-09,fulfilled
+1859,247,Google Ads,2025-01-07,fulfilled
+1860,99,Meta Ads,2026-02-01,fulfilled
+1861,35,Google Ads,2026-01-05,fulfilled
+1862,142,Meta Ads,2025-06-12,restocked
+1863,50,Email,2025-11-10,fulfilled
+1864,414,Meta Ads,2025-01-29,fulfilled
+1865,373,Meta Ads,2026-01-24,fulfilled
+1866,440,Google Ads,2026-01-29,fulfilled
+1867,444,Meta Ads,2025-05-25,fulfilled
+1868,453,Direct,2025-01-09,fulfilled
+1869,124,Email,2025-07-03,fulfilled
+1870,86,Google Ads,2025-08-11,fulfilled
+1871,122,Meta Ads,2026-02-19,fulfilled
+1872,152,Meta Ads,2025-07-27,fulfilled
+1873,127,Google Ads,2025-08-15,fulfilled
+1874,441,Meta Ads,2025-12-21,fulfilled
+1875,132,Email,2025-11-29,fulfilled
+1876,299,Meta Ads,2025-07-11,fulfilled
+1877,34,Google Ads,2025-06-12,fulfilled
+1878,129,Google Ads,2025-07-03,fulfilled
+1879,195,Direct,2025-12-09,fulfilled
+1880,229,Google Ads,2025-09-14,fulfilled
+1881,54,Direct,2025-03-27,fulfilled
+1882,253,Google Ads,2025-07-18,fulfilled
+1883,319,Direct,2025-07-02,fulfilled
+1884,340,Direct,2025-03-20,fulfilled
+1885,244,Direct,2025-02-26,fulfilled
+1886,228,Direct,2025-03-23,fulfilled
+1887,79,Email,2026-01-22,fulfilled
+1888,192,Google Ads,2025-02-01,fulfilled
+1889,53,Meta Ads,2025-02-21,fulfilled
+1890,496,Google Ads,2025-09-08,fulfilled
+1891,421,Email,2026-01-31,fulfilled
+1892,179,Google Ads,2026-02-18,fulfilled
+1893,451,Meta Ads,2026-02-04,fulfilled
+1894,499,Google Ads,2025-02-17,fulfilled
+1895,161,Google Ads,2025-04-09,fulfilled
+1896,401,Google Ads,2025-05-01,fulfilled
+1897,106,Direct,2025-10-31,cancelled
+1898,468,Direct,2025-01-09,cancelled
+1899,198,Google Ads,2026-03-19,fulfilled
+1900,467,Google Ads,2026-03-08,fulfilled
+1901,417,Google Ads,2025-03-17,fulfilled
+1902,159,Google Ads,2025-09-01,fulfilled
+1903,485,Meta Ads,2025-02-03,fulfilled
+1904,225,Meta Ads,2026-01-09,fulfilled
+1905,495,Meta Ads,2025-09-24,fulfilled
+1906,247,Direct,2025-08-28,fulfilled
+1907,12,Direct,2025-11-22,fulfilled
+1908,441,Google Ads,2025-09-19,fulfilled
+1909,324,Email,2025-10-29,fulfilled
+1910,281,Google Ads,2026-01-12,fulfilled
+1911,176,Google Ads,2025-01-14,fulfilled
+1912,496,Meta Ads,2025-05-16,fulfilled
+1913,26,Google Ads,2025-09-13,fulfilled
+1914,91,Meta Ads,2026-01-21,fulfilled
+1915,244,Direct,2025-01-02,fulfilled
+1916,377,Meta Ads,2025-11-01,fulfilled
+1917,350,Google Ads,2025-03-17,fulfilled
+1918,152,Direct,2025-09-01,cancelled
+1919,39,Google Ads,2025-12-24,fulfilled
+1920,391,Google Ads,2025-01-28,fulfilled
+1921,221,Google Ads,2025-09-28,cancelled
+1922,435,Meta Ads,2025-05-21,fulfilled
+1923,284,Meta Ads,2025-11-30,fulfilled
+1924,430,Email,2025-12-22,cancelled
+1925,374,Direct,2025-08-16,fulfilled
+1926,479,Google Ads,2025-08-05,fulfilled
+1927,184,Meta Ads,2026-02-20,fulfilled
+1928,313,Email,2025-06-23,fulfilled
+1929,179,Meta Ads,2025-11-09,fulfilled
+1930,402,Google Ads,2025-09-16,fulfilled
+1931,216,Google Ads,2025-11-07,fulfilled
+1932,273,Google Ads,2025-10-13,fulfilled
+1933,91,Direct,2025-12-13,fulfilled
+1934,253,Direct,2025-03-07,fulfilled
+1935,9,Google Ads,2025-08-16,cancelled
+1936,208,Meta Ads,2025-09-06,fulfilled
+1937,356,Email,2025-10-05,fulfilled
+1938,462,Direct,2026-03-01,cancelled
+1939,124,Meta Ads,2025-02-08,fulfilled
+1940,334,Email,2025-10-30,restocked
+1941,497,Google Ads,2025-02-11,restocked
+1942,208,Email,2026-03-02,fulfilled
+1943,401,Meta Ads,2025-04-25,fulfilled
+1944,443,Google Ads,2026-03-10,fulfilled
+1945,417,Google Ads,2026-03-18,fulfilled
+1946,182,Google Ads,2025-09-22,fulfilled
+1947,255,Direct,2025-11-16,fulfilled
+1948,123,Meta Ads,2025-04-17,fulfilled
+1949,19,Direct,2025-10-30,fulfilled
+1950,418,Google Ads,2026-02-15,fulfilled
+1951,355,Direct,2025-12-06,fulfilled
+1952,346,Google Ads,2025-03-05,fulfilled
+1953,145,Email,2026-03-08,fulfilled
+1954,7,Meta Ads,2026-03-14,fulfilled
+1955,238,Meta Ads,2025-05-26,fulfilled
+1956,80,Direct,2025-01-27,fulfilled
+1957,50,Google Ads,2025-10-09,fulfilled
+1958,318,Google Ads,2026-02-17,fulfilled
+1959,226,Google Ads,2025-03-09,fulfilled
+1960,138,Direct,2026-03-26,fulfilled
+1961,271,Direct,2025-04-13,fulfilled
+1962,410,Meta Ads,2025-07-15,fulfilled
+1963,209,Meta Ads,2025-12-17,fulfilled
+1964,112,Meta Ads,2025-05-19,fulfilled
+1965,197,Google Ads,2025-04-20,cancelled
+1966,419,Meta Ads,2025-07-16,fulfilled
+1967,245,Meta Ads,2025-07-06,fulfilled
+1968,144,Meta Ads,2025-10-07,fulfilled
+1969,24,Google Ads,2025-05-07,fulfilled
+1970,37,Direct,2025-03-06,fulfilled
+1971,386,Google Ads,2025-05-20,restocked
+1972,232,Meta Ads,2025-01-15,fulfilled
+1973,372,Meta Ads,2026-01-06,fulfilled
+1974,453,Google Ads,2025-04-14,restocked
+1975,250,Direct,2025-12-11,fulfilled
+1976,308,Email,2025-09-06,fulfilled
+1977,191,Google Ads,2025-01-17,fulfilled
+1978,96,Meta Ads,2025-01-15,fulfilled
+1979,340,Meta Ads,2025-04-19,fulfilled
+1980,112,Meta Ads,2025-02-11,fulfilled
+1981,49,Meta Ads,2026-01-04,restocked
+1982,292,Meta Ads,2025-12-11,fulfilled
+1983,390,Direct,2025-11-10,fulfilled
+1984,173,Google Ads,2026-01-31,fulfilled
+1985,14,Google Ads,2025-01-21,fulfilled
+1986,317,Google Ads,2025-01-14,fulfilled
+1987,130,Meta Ads,2025-06-05,fulfilled
+1988,293,Meta Ads,2026-02-22,fulfilled
+1989,138,Google Ads,2025-11-07,fulfilled
+1990,131,Direct,2025-06-24,fulfilled
+1991,113,Google Ads,2025-08-14,restocked
+1992,120,Meta Ads,2025-05-08,fulfilled
+1993,302,Meta Ads,2026-03-07,fulfilled
+1994,450,Email,2025-10-06,fulfilled
+1995,313,Direct,2025-05-31,fulfilled
+1996,415,Email,2025-01-04,cancelled
+1997,4,Google Ads,2025-11-14,fulfilled
+1998,269,Meta Ads,2025-04-10,fulfilled
+1999,221,Direct,2025-06-25,fulfilled
+2000,94,Meta Ads,2025-04-02,fulfilled
+2001,138,Google Ads,2026-02-08,fulfilled
+2002,333,Direct,2025-03-20,fulfilled
+2003,335,Google Ads,2025-05-30,fulfilled
+2004,55,Google Ads,2025-08-15,fulfilled
+2005,263,Meta Ads,2025-08-10,fulfilled
+2006,345,Meta Ads,2026-02-22,cancelled
+2007,39,Direct,2025-11-05,cancelled
+2008,211,Meta Ads,2025-10-26,fulfilled
+2009,442,Email,2025-10-09,fulfilled
+2010,39,Meta Ads,2026-01-03,cancelled
+2011,105,Meta Ads,2026-01-26,fulfilled
+2012,225,Google Ads,2025-09-22,fulfilled
+2013,16,Google Ads,2025-05-22,fulfilled
+2014,393,Meta Ads,2025-02-07,fulfilled
+2015,280,Meta Ads,2025-08-02,fulfilled
+2016,45,Meta Ads,2025-08-07,fulfilled
+2017,326,Google Ads,2025-02-06,fulfilled
+2018,432,Meta Ads,2025-08-24,fulfilled
+2019,223,Google Ads,2025-07-14,fulfilled
+2020,491,Meta Ads,2026-01-27,restocked
+2021,183,Google Ads,2025-01-11,fulfilled
+2022,269,Direct,2025-03-03,fulfilled
+2023,409,Google Ads,2026-02-15,fulfilled
+2024,94,Direct,2025-05-03,fulfilled
+2025,351,Direct,2025-10-02,fulfilled
+2026,396,Meta Ads,2025-03-11,fulfilled
+2027,68,Direct,2025-03-30,fulfilled
+2028,35,Direct,2026-03-23,fulfilled
+2029,479,Meta Ads,2025-10-14,fulfilled
+2030,15,Email,2025-04-03,fulfilled
+2031,307,Google Ads,2025-06-16,restocked
+2032,378,Meta Ads,2025-03-11,cancelled
+2033,213,Google Ads,2025-08-25,restocked
+2034,282,Google Ads,2026-01-09,fulfilled
+2035,86,Google Ads,2025-07-14,fulfilled
+2036,14,Meta Ads,2025-05-01,fulfilled
+2037,388,Google Ads,2025-06-20,restocked
+2038,373,Meta Ads,2025-06-18,fulfilled
+2039,132,Meta Ads,2026-03-08,fulfilled
+2040,7,Meta Ads,2025-05-21,fulfilled
+2041,466,Meta Ads,2025-02-26,fulfilled
+2042,18,Meta Ads,2025-10-05,fulfilled
+2043,405,Google Ads,2025-07-03,cancelled
+2044,244,Google Ads,2025-03-19,fulfilled
+2045,349,Google Ads,2025-10-15,fulfilled
+2046,272,Direct,2025-01-28,fulfilled
+2047,233,Google Ads,2025-12-17,fulfilled
+2048,341,Meta Ads,2025-07-29,fulfilled
+2049,108,Direct,2025-05-20,fulfilled
+2050,148,Direct,2025-03-30,fulfilled
+2051,26,Meta Ads,2026-01-02,restocked
+2052,12,Direct,2026-02-19,fulfilled
+2053,279,Email,2025-02-23,fulfilled
+2054,29,Google Ads,2025-03-17,fulfilled
+2055,236,Meta Ads,2026-03-12,fulfilled
+2056,318,Google Ads,2025-02-06,fulfilled
+2057,246,Google Ads,2025-06-14,fulfilled
+2058,252,Google Ads,2026-03-13,fulfilled
+2059,441,Direct,2025-12-16,fulfilled
+2060,125,Google Ads,2025-10-06,fulfilled
+2061,227,Google Ads,2025-01-04,fulfilled
+2062,192,Meta Ads,2025-07-17,fulfilled
+2063,152,Meta Ads,2025-12-23,fulfilled
+2064,293,Email,2026-01-24,cancelled
+2065,367,Email,2025-10-10,fulfilled
+2066,364,Direct,2025-09-15,fulfilled
+2067,112,Direct,2025-06-27,fulfilled
+2068,139,Meta Ads,2025-12-04,fulfilled
+2069,311,Google Ads,2025-03-14,fulfilled
+2070,442,Meta Ads,2026-02-10,restocked
+2071,196,Google Ads,2026-03-16,fulfilled
+2072,407,Direct,2025-01-09,fulfilled
+2073,87,Google Ads,2025-02-12,fulfilled
+2074,165,Google Ads,2025-02-06,fulfilled
+2075,467,Google Ads,2025-07-29,cancelled
+2076,223,Google Ads,2025-06-03,fulfilled
+2077,186,Direct,2025-08-14,cancelled
+2078,195,Meta Ads,2025-07-25,fulfilled
+2079,149,Google Ads,2025-11-20,fulfilled
+2080,374,Meta Ads,2026-01-16,fulfilled
+2081,424,Google Ads,2026-03-18,fulfilled
+2082,168,Email,2025-05-07,fulfilled
+2083,319,Direct,2026-03-09,fulfilled
+2084,166,Meta Ads,2025-06-16,restocked
+2085,49,Google Ads,2026-01-15,fulfilled
+2086,36,Meta Ads,2025-06-12,fulfilled
+2087,340,Meta Ads,2025-02-16,fulfilled
+2088,260,Meta Ads,2025-08-28,fulfilled
+2089,21,Email,2025-11-14,fulfilled
+2090,97,Google Ads,2025-04-07,fulfilled
+2091,450,Meta Ads,2025-06-02,restocked
+2092,126,Google Ads,2025-08-30,fulfilled
+2093,335,Direct,2025-07-23,fulfilled
+2094,185,Email,2025-03-02,fulfilled
+2095,207,Google Ads,2025-05-20,restocked
+2096,256,Meta Ads,2025-01-02,fulfilled
+2097,406,Meta Ads,2025-08-02,fulfilled
+2098,426,Direct,2025-05-16,fulfilled
+2099,98,Email,2025-04-23,fulfilled
+2100,52,Google Ads,2026-03-19,fulfilled
+2101,363,Meta Ads,2025-01-10,fulfilled
+2102,201,Meta Ads,2025-01-09,fulfilled
+2103,243,Direct,2025-03-15,fulfilled
+2104,58,Meta Ads,2025-07-12,fulfilled
+2105,340,Google Ads,2025-09-03,fulfilled
+2106,271,Direct,2025-02-23,fulfilled
+2107,370,Google Ads,2025-04-07,fulfilled
+2108,367,Direct,2025-06-23,fulfilled
+2109,51,Direct,2025-08-16,fulfilled
+2110,144,Google Ads,2025-11-24,fulfilled
+2111,46,Email,2025-09-23,fulfilled
+2112,405,Meta Ads,2025-06-15,fulfilled
+2113,47,Meta Ads,2025-06-25,fulfilled
+2114,342,Google Ads,2025-10-16,fulfilled
+2115,154,Meta Ads,2025-03-18,fulfilled
+2116,236,Meta Ads,2025-07-18,fulfilled
+2117,162,Email,2026-01-10,fulfilled
+2118,146,Google Ads,2025-09-10,fulfilled
+2119,85,Meta Ads,2026-01-21,fulfilled
+2120,109,Meta Ads,2025-04-25,fulfilled
+2121,136,Direct,2026-01-24,fulfilled
+2122,375,Meta Ads,2026-03-03,fulfilled
+2123,76,Direct,2025-05-16,fulfilled
+2124,66,Direct,2026-03-20,fulfilled
+2125,160,Meta Ads,2025-03-25,fulfilled
+2126,437,Google Ads,2026-01-21,fulfilled
+2127,152,Email,2025-07-09,fulfilled
+2128,449,Google Ads,2025-01-25,fulfilled
+2129,263,Direct,2025-06-29,fulfilled
+2130,174,Email,2025-07-25,restocked
+2131,177,Google Ads,2025-07-30,fulfilled
+2132,264,Google Ads,2025-07-08,fulfilled
+2133,213,Email,2025-12-15,fulfilled
+2134,195,Meta Ads,2025-10-22,fulfilled
+2135,341,Google Ads,2025-11-09,fulfilled
+2136,178,Google Ads,2025-06-04,fulfilled
+2137,116,Direct,2025-12-05,restocked
+2138,369,Direct,2025-07-24,fulfilled
+2139,433,Google Ads,2025-03-12,fulfilled
+2140,393,Meta Ads,2025-12-13,fulfilled
+2141,358,Meta Ads,2025-12-02,fulfilled
+2142,331,Email,2026-03-15,fulfilled
+2143,251,Google Ads,2026-02-21,fulfilled
+2144,438,Google Ads,2025-06-29,fulfilled
+2145,319,Meta Ads,2025-01-01,fulfilled
+2146,443,Meta Ads,2026-03-26,fulfilled
+2147,407,Meta Ads,2025-06-23,fulfilled
+2148,316,Meta Ads,2025-08-31,restocked
+2149,77,Google Ads,2025-08-27,fulfilled
+2150,409,Meta Ads,2025-10-10,fulfilled
+2151,99,Direct,2025-04-28,fulfilled
+2152,393,Google Ads,2025-01-26,fulfilled
+2153,388,Meta Ads,2025-12-21,restocked
+2154,488,Google Ads,2025-12-26,fulfilled
+2155,86,Meta Ads,2026-03-09,cancelled
+2156,334,Direct,2025-05-28,fulfilled
+2157,173,Meta Ads,2025-09-22,fulfilled
+2158,456,Email,2025-07-07,fulfilled
+2159,332,Email,2025-03-17,fulfilled
+2160,480,Meta Ads,2025-04-05,fulfilled
+2161,218,Google Ads,2025-05-17,fulfilled
+2162,233,Meta Ads,2025-06-18,fulfilled
+2163,3,Meta Ads,2025-05-09,fulfilled
+2164,227,Meta Ads,2026-02-05,fulfilled
+2165,190,Google Ads,2025-12-17,fulfilled
+2166,339,Direct,2025-10-28,fulfilled
+2167,281,Meta Ads,2025-02-22,fulfilled
+2168,319,Meta Ads,2025-06-06,fulfilled
+2169,337,Google Ads,2025-01-26,fulfilled
+2170,342,Meta Ads,2026-01-19,fulfilled
+2171,396,Meta Ads,2026-01-08,fulfilled
+2172,98,Meta Ads,2025-09-08,fulfilled
+2173,256,Google Ads,2025-02-19,fulfilled
+2174,320,Meta Ads,2025-09-16,restocked
+2175,160,Meta Ads,2025-07-10,fulfilled
+2176,209,Email,2025-09-11,fulfilled
+2177,361,Meta Ads,2025-07-21,fulfilled
+2178,67,Google Ads,2025-04-29,fulfilled
+2179,60,Direct,2025-08-19,fulfilled
+2180,341,Meta Ads,2025-02-16,fulfilled
+2181,278,Direct,2025-11-14,fulfilled
+2182,140,Google Ads,2025-09-18,fulfilled
+2183,114,Direct,2026-03-12,fulfilled
+2184,466,Google Ads,2025-10-27,cancelled
+2185,498,Google Ads,2026-03-23,fulfilled
+2186,192,Direct,2025-10-21,fulfilled
+2187,238,Google Ads,2025-08-28,fulfilled
+2188,136,Meta Ads,2025-12-04,fulfilled
+2189,340,Google Ads,2025-11-08,fulfilled
+2190,145,Meta Ads,2025-09-26,cancelled
+2191,324,Email,2025-11-27,fulfilled
+2192,371,Google Ads,2025-05-23,fulfilled
+2193,153,Google Ads,2025-08-14,fulfilled
+2194,439,Google Ads,2025-02-06,fulfilled
+2195,274,Google Ads,2025-09-19,fulfilled
+2196,350,Google Ads,2025-11-30,cancelled
+2197,461,Google Ads,2025-03-18,cancelled
+2198,321,Direct,2025-05-03,fulfilled
+2199,458,Meta Ads,2025-10-07,fulfilled
+2200,449,Meta Ads,2025-12-21,fulfilled
