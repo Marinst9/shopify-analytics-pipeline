@@ -1,4 +1,4 @@
-# Shopify Analytics Pipeline — ATLETICA DACH Market
+# Shopify Analytics Pipeline — E-Commerce Market
 
 End-to-end analytics pipeline built for a Shopify-based fitness equipment store operating in the DACH market (Germany, Austria, Switzerland).
 
